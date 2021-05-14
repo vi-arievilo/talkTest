@@ -1,0 +1,24 @@
+﻿@using Feriados.Model.DTO;
+
+@model FeriadoRequest
+
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+<h2>Delete</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.Hidden("id");
+    <button> @Html.ActionLink("Delete", "Home", new { id = Model.id}, new { @class = "modal", @OnClick = "return confirm('Confirma a exclusão desse registro?');" })</button>
+
+    @*<form class="form-signin" action="@Url.Action("Delete", "Home")">
+
+            @Html.Hidden("id");
+            <input type="submit" id="delete" value="Delete" />
+
+        </form>*@
+}

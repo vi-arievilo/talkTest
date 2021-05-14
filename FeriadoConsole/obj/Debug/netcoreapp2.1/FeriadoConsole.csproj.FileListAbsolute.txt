@@ -1,0 +1,4 @@
+C:\Users\Vivi\source\repos\Feriados\FeriadoConsole\obj\Debug\netcoreapp2.1\FeriadoConsole.csprojAssemblyReference.cache
+C:\Users\Vivi\source\repos\Feriados\FeriadoConsole\obj\Debug\netcoreapp2.1\FeriadoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\source\repos\Feriados\FeriadoConsole\obj\Debug\netcoreapp2.1\FeriadoConsole.AssemblyInfoInputs.cache
+C:\Users\Vivi\source\repos\Feriados\FeriadoConsole\obj\Debug\netcoreapp2.1\FeriadoConsole.AssemblyInfo.cs

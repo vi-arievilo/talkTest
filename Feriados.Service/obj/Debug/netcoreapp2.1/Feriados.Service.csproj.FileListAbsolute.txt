@@ -1,0 +1,14 @@
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\bin\Debug\netcoreapp2.1\Feriados.Service.deps.json
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\bin\Debug\netcoreapp2.1\Feriados.Service.dll
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\bin\Debug\netcoreapp2.1\Feriados.Service.pdb
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\bin\Debug\netcoreapp2.1\Feriados.Model.dll
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\bin\Debug\netcoreapp2.1\Feriados.Repository.dll
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\bin\Debug\netcoreapp2.1\Feriados.Model.pdb
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\bin\Debug\netcoreapp2.1\Feriados.Repository.pdb
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\obj\Debug\netcoreapp2.1\Feriados.Service.csprojAssemblyReference.cache
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\obj\Debug\netcoreapp2.1\Feriados.Service.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\obj\Debug\netcoreapp2.1\Feriados.Service.AssemblyInfoInputs.cache
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\obj\Debug\netcoreapp2.1\Feriados.Service.AssemblyInfo.cs
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\obj\Debug\netcoreapp2.1\Feriados.Service.csproj.CopyComplete
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\obj\Debug\netcoreapp2.1\Feriados.Service.dll
+C:\Users\Vivi\source\repos\Feriados\Feriados.Service\obj\Debug\netcoreapp2.1\Feriados.Service.pdb

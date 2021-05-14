@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Feriados.Model\Feriado.Model.csproj" />
+    <ProjectReference Include="..\Feriados.Repository\Feriado.Repository.csproj" />
+    <ProjectReference Include="..\Feriados.Service\Feriado.Service.csproj" />
+  </ItemGroup>
+
+</Project>
